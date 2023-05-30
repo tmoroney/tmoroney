@@ -10,11 +10,6 @@
   
 ## Projects I've Worked On
 
-<div style="display:grid;align-items:center;justify-content:center">
-  <img style="height:100%;width:45%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=tmoroney&theme=github_dark&count_private=true&show_icons=true&include_all_commits=true"/>
-  <!-- <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmoroney&layout=compact&theme=gotham&langs_count=8"/> -->
-</div>
-
 <!-- Contact me -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
