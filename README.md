@@ -20,7 +20,8 @@ A web proxy server which fetches items from the Web on behalf of a Web client (i
 A secure application for encrypting files before they are uploaded to the cloud so that only users in the encryption group can decrypt the files. Uses a combination of **symmetric** and **asymmetric** encryption to ensure that files are completely secure, and to enable the adding and removing users from the encryption group so that files can be securely shared between multiple people.
 ### 4. [Action Items Dashboard (for Dell)](https://github.com/tmoroney/Dell-Dashboard)
 For the **2022** _[Trinity College SWENG projects](https://www.linkedin.com/search/results/all/?keywords=%23sweng)_, my team developed a fully featured web-based UI (using the **.Net framework**), with **supporting APIs** on top of Dell’s existing database (using **PostgreSQL**). I built the frontend and connected it to the backend API using **C#**. The program allows for all analytical and management tasks of the dataset, increasing the visibility and productivity of all admin tasks related to the database.
-### ⬇️ More projects pinned below ⬇️
+
+### ⬇️ Check out more projects below ⬇️
 
 <!-- Contact me -->
 <h3 align="left">Connect with me:</h3>
