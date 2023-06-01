@@ -7,9 +7,8 @@
 - 🔎 Looking for 6-9 month internship for 2024
 
 <!-- Statistics -->
-<a href="https://github-readme-tech-stack.vercel.app">
-    <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Tech%20Stack&align=center&titleAlign=center&fontSize=25&lineHeight=15&lineCount=3&theme=github_dark&width=450&bg=%230e1114&badge=%2312161a&border=%232da7c7&titleColor=%2321c0d1&line1=react,react,auto;javascript,javascript,auto;html5,html5,auto;css3,css3,2965f1;&line2=python,python,auto;java,java,auto;csharp,csharp,auto;docker,docker,auto;&line3=node.js,node.js,auto;sql,sql,auto;haskell,haskell,auto;dotnet,dotnet,auto;" alt="GitHub Readme Tech Stack" />
-  </a>
+![Tom's Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Tech%20Stack&align=center&titleAlign=center&fontSize=25&lineHeight=15&lineCount=3&theme=github_dark&width=450&bg=%230e1114&badge=%2312161a&border=%232da7c7&titleColor=%2321c0d1&line1=react,react,auto;javascript,javascript,auto;html5,html5,auto;css3,css3,2965f1;&line2=python,python,auto;java,java,auto;csharp,csharp,auto;docker,docker,auto;&line3=node.js,node.js,auto;sql,sql,auto;haskell,haskell,auto;dotnet,dotnet,auto;)
+![Tom's Github stats](https://github-readme-stats.vercel.app/api?username=tmoroney&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
   
 ## Projects I've Worked On
 ### 1. [Architecture Portfolio Center (for IBM)](https://github.com/tcd-ibm/architecture-center-input-form) 🧱
