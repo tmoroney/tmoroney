@@ -7,7 +7,7 @@
 - 🔎 Looking for 6-9 month internship for 2024
 
 <!-- Statistics -->
-![](https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Tech%20Stack&align=center&titleAlign=center&fontSize=30&lineHeight=20&lineCount=3&theme=github_dark&width=450&bg=%230e1114&badge=%2312161a&border=%232da7c7&titleColor=%2321c0d1&line1=react,react,auto;javascript,javascript,auto;html5,html5,auto;css3,css3,2965f1;&line2=python,python,auto;java,java,auto;csharp,csharp,auto;docker,docker,auto;&line3=node.js,node.js,auto;sql,sql,auto;haskell,haskell,auto;dotnet,dotnet,auto;)
+![](https://github-readme-tech-stack.vercel.app/api/cards?title=Experience%20In:&align=center&titleAlign=center&fontSize=20&lineHeight=20&lineCount=3&theme=github_dark&width=450&bg=%230e1114&badge=%2312161a&border=%232da7c7&titleColor=%2321c0d1&line1=react,react,auto;javascript,javascript,auto;html5,html5,auto;css3,css3,2965f1;&line2=python,python,auto;java,java,auto;csharp,csharp,auto;docker,docker,auto;&line3=node.js,node.js,auto;sql,sql,auto;haskell,haskell,auto;dotnet,dotnet,auto;)
   
 ## Projects I've Worked On
 ### 1. [Architecture Portfolio Center (for IBM)](https://github.com/tcd-ibm/architecture-center-input-form) 🧱
