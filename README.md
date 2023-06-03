@@ -1,10 +1,12 @@
 ## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 <!-- Brief Description -->
-- 📚 I'm a 4th year Computer Science student at [Trinity College Dublin](https://www.tcd.ie/)
-- ⚡ My best languages are Python and Javascript
-- 🌞 I’m currently doing a summer internship at [ChannelSight](https://www.channelsight.com/)
-- 🔎 Looking for 6-9 month internship for 2024
+<pre>
+📚 I'm a 4th year Computer Science student at <a href="https://www.tcd.ie/">Trinity College Dublin</a>
+⚡ My best languages are Python and Javascript
+🌞 I’m currently doing a summer internship at <a href="https://www.channelsight.com/">ChannelSight</a>
+🔎 Looking for 6-9 month internship for 2024
+</pre>
 
 <!-- Statistics -->
 ![](https://github-readme-tech-stack.vercel.app/api/cards?title=Experience%20In:&align=center&titleAlign=center&fontSize=25&lineHeight=20&lineCount=3&theme=github_dark&width=450&bg=%230e1114&badge=%2312161a&border=%232da7c7&titleColor=%2321c0d1&line1=react,react,auto;javascript,javascript,auto;html5,html,auto;css3,css,2965f1;&line2=python,python,auto;Oracle,Java,auto;csharp,csharp,auto;docker,docker,auto;&line3=node.js,node.js,auto;mysql,sql,auto;haskell,haskell,auto;dotnet,dotnet,auto;)
