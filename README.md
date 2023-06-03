@@ -1,4 +1,5 @@
 ## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+<!--<a href="https://www.linkedin.com/in/tom-moroney1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="20" width="20" /></a> -->
 
 <!-- Brief Description -->
 <pre>
