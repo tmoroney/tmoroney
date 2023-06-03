@@ -22,7 +22,7 @@ A secure application for encrypting files before they are uploaded to the cloud 
 ### 4. [Action Items Dashboard (for Dell)](https://github.com/tmoroney/Dell-Dashboard) 📊
 For the **2022** _[Trinity College SWENG projects](https://www.linkedin.com/search/results/all/?keywords=%23sweng)_, my team developed a fully featured web-based UI (using the **.Net framework**), with **supporting APIs** on top of Dell’s existing database (using **PostgreSQL**). I built the frontend and connected it to the backend API using **C#**. The program allows for all analytical and management tasks of the dataset, increasing the visibility and productivity of all admin tasks related to the database.
 
-### 🔽 Check out more projects below 🔽
+#### 🔽 More projects below 🔽
 
 <!-- Contact me -->
 <div align="center">
