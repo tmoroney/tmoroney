@@ -9,9 +9,9 @@
 </pre>
 
 <!-- Statistics -->
-![](https://github-readme-tech-stack.vercel.app/api/cards?title=Experience%20In:&align=center&titleAlign=center&fontSize=25&lineHeight=20&lineCount=3&theme=github_dark&width=450&bg=%230e1114&badge=%2312161a&border=%232da7c7&titleColor=%2321c0d1&line1=react,react,auto;javascript,javascript,auto;html5,html,auto;css3,css,2965f1;&line2=python,python,auto;Oracle,Java,auto;csharp,csharp,auto;docker,docker,auto;&line3=node.js,node.js,auto;mysql,sql,auto;haskell,haskell,auto;dotnet,dotnet,auto;)
+![](https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Skills&align=center&titleAlign=center&fontSize=25&lineHeight=20&lineCount=3&theme=github_dark&width=450&bg=%230e1114&badge=%2312161a&border=%232da7c7&titleColor=%2321c0d1&line1=react,react,auto;javascript,javascript,auto;html5,html,auto;css3,css,2965f1;&line2=python,python,auto;Oracle,Java,auto;csharp,csharp,auto;docker,docker,auto;&line3=node.js,node.js,auto;mysql,sql,auto;haskell,haskell,auto;dotnet,dotnet,auto;)
   
-## Projects I've Worked On
+## Some of my projects
 ### 1. [Architecture Portfolio Center (for IBM)](https://github.com/tcd-ibm/architecture-center-input-form) 🧱
 As part of the **2023** _[Trinity College SWENG projects](https://www.linkedin.com/search/results/all/?keywords=%23sweng)_, IBM tasked my team with creating a reimagined Architecture Portfolio Center. We took inspiration from an open-source project and transformed it into a fully customizable **ReactJS** web app. Our application serves as a centralized hub, eliminating the need to navigate through various project management tools commonly used within an organization. It provides a streamlined platform where all projects under an organisation can be showcased and conveniently filtered. [**Demo Video**](https://youtu.be/69_Lp5XvD0Y) + [**Read more**](https://www.linkedin.com/posts/tom-moroney1_sweng-redhatopenshift-ibm-activity-7064757735942148096-tgtH?utm_source=share&utm_medium=member_desktop)
 ### 2. [Proxy Server](https://github.com/tmoroney/proxy-server) 📡
@@ -24,12 +24,17 @@ For the **2022** _[Trinity College SWENG projects](https://www.linkedin.com/sear
 ### 🔽 Check out more projects below 🔽
 
 <!-- Contact me -->
-### Connect with me:
-<p align="left">
-<a href="https://www.linkedin.com/in/tom-moroney1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david mendoza ramos" height="30" width="40" /></a>
-</p>
+<h3 align="center">Connect with me:</h3>
+<div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=tmoroney&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tom-moroney1/)
+  
+</div>
+
+<p align="center">
+<img height= "150" src="https://github-readme-stats.vercel.app/api?username=tmoroney&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" />
+<img height= "150" src="https://github-readme-streak-stats.herokuapp.com/?user=tmoroney&theme=algolia" alt="tmoroney"  />
+</p>
 
 
 <!--
