@@ -24,11 +24,11 @@ For the **2022** _[Trinity College SWENG projects](https://www.linkedin.com/sear
 ### 🔽 Check out more projects below 🔽
 
 <!-- Contact me -->
-<h3 align="center">Connect with me:</h3>
 <div align="center">
+  <h3>Connect with me:</h3>
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tom-moroney1/)
-  
+  [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tom-moroney1/)
+ 
 </div>
 
 <p align="center">
