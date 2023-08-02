@@ -13,7 +13,7 @@
 ![](https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Skills&align=center&titleAlign=center&fontSize=25&lineHeight=20&lineCount=3&theme=github_dark&width=450&bg=%230e1114&badge=%2312161a&border=%232da7c7&titleColor=%2321c0d1&line1=react,react,auto;javascript,javascript,auto;html5,html,auto;css3,css,2965f1;&line2=python,python,auto;Oracle,Java,auto;csharp,csharp,auto;docker,docker,auto;&line3=node.js,node.js,auto;mysql,sql,auto;haskell,haskell,auto;dotnet,dotnet,auto;)
   
 ## Some of my Projects 🎨
-### 1. [Architecture Portfolio Center (for IBM)](https://github.com/tcd-ibm/architecture-center-input-form) 🧱
+### 1. [Architecture Portfolio Center (for IBM)](https://github.com/tcd-ibm/architecture-center-input-form) 🏘️
 As part of the **2023** _[Trinity College SWENG projects](https://www.linkedin.com/search/results/all/?keywords=%23sweng)_, IBM tasked my team with creating a reimagined Architecture Portfolio Center. We took inspiration from an open-source project and transformed it into a fully customizable **ReactJS** web app. Our application serves as a centralized hub, eliminating the need to navigate through various project management tools commonly used within an organization - all projects under an organisation can be showcased and easily filtered. [**Short Demo Video**](https://youtu.be/69_Lp5XvD0Y) + [**Read more**](https://www.linkedin.com/posts/tom-moroney1_sweng-redhatopenshift-ibm-activity-7064757735942148096-tgtH?utm_source=share&utm_medium=member_desktop)
 ### 2. [Proxy Server](https://github.com/tmoroney/proxy-server) 📡
 A web proxy server which fetches items from the Web on behalf of a Web client (i.e browser) instead of the client fetching them directly. Supports Caching and Access Control.
