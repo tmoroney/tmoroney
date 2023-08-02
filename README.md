@@ -6,7 +6,7 @@
 📚 I'm a 4th year Computer Science student at <a href="https://www.tcd.ie/">Trinity College Dublin</a>
 ⚡ My best languages are Python and Javascript
 🌞 I just completed a summer internship at <a href="https://www.channelsight.com/">ChannelSight</a>
-🔎 Looking for 6-9 month internship for 2024
+🔎 Looking for 6-9 month internship starting in January 2024
 </pre>
 
 <!-- Statistics -->
