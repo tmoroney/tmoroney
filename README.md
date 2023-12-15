@@ -6,11 +6,11 @@
 📚 I'm a 4th year Computer Science student at <a href="https://www.tcd.ie/">Trinity College Dublin</a>
 ⚡ My best languages are Javascript and Python
 🌞 I recently completed a summer internship at <a href="https://www.channelsight.com/">ChannelSight</a>
-🔎 Looking for 6-9 month internship starting in January 2024
+🏢 Starting 7-month internship at Workday in February 2024 (finished August)
 </pre>
 
 <!-- Statistics -->
-![](https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Skills&align=center&titleAlign=center&fontSize=25&lineHeight=20&lineCount=3&theme=github_dark&width=450&bg=%230e1114&badge=%2312161a&border=%232da7c7&titleColor=%2321c0d1&line1=react,react,auto;javascript,javascript,auto;html5,html,auto;css3,css,2965f1;&line2=python,python,auto;Oracle,Java,auto;csharp,csharp,auto;docker,docker,auto;&line3=node.js,node.js,auto;mysql,sql,auto;haskell,haskell,auto;dotnet,dotnet,auto;)
+![](https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Skills&align=center&titleAlign=center&fontSize=25&lineHeight=20&lineCount=3&theme=github_dark&width=450&bg=%230e1114&badge=%2312161a&border=%232da7c7&titleColor=%2321c0d1&line1=react,react,auto;javascript,javascript,auto;html5,html,auto;css3,css,2965f1;&line2=python,python,auto;Oracle,Java,auto;csharp,csharp,auto;docker,docker,auto;&line3=node.js,node.js,auto;mysql,sql,auto;haskell,haskell,auto;dotnet,dotnet;Cplusplus,Cplus,auto;)
   
 ## Some of my Projects 🎨
 ### 1. [Architecture Portfolio Center (for IBM)](https://github.com/tcd-ibm/architecture-center-input-form) 🏘️
