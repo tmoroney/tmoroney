@@ -4,9 +4,9 @@
 <!-- Brief Description -->
 <pre>
 📚 I'm a 4th year Computer Science student at <a href="https://www.tcd.ie/">Trinity College Dublin</a>
-⚡ My best languages are Javascript and Python
-🌞 I recently completed a summer internship at <a href="https://www.channelsight.com/">ChannelSight</a> (web crawling)
-🏢 Starting 7-month internship at <a href="https://www.workday.com/">Workday</a> in February 2024
+🚀 Best languages are Java, Javascript and Python
+🌞 Interned at <a href="https://www.channelsight.com/">ChannelSight</a> last summer (web crawling)
+🏢 Currently a Software Engineer Intern at <a href="https://www.workday.com/">Workday</a>
 </pre>
 
 <!-- Statistics -->
