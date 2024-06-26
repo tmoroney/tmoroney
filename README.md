@@ -3,7 +3,7 @@
 
 <!-- Brief Description -->
 <pre>
-📚 I'm a 4th year Computer Science student at <a href="https://www.tcd.ie/">Trinity College Dublin</a>
+📚 I'm a Computer Science Masters student at <a href="https://www.tcd.ie/">Trinity College Dublin</a>
 🚀 Best languages are Java, Javascript and Python
 🌞 Interned at <a href="https://www.channelsight.com/">ChannelSight</a> last summer (web crawling)
 🏢 Currently a Software Engineer Intern at <a href="https://www.workday.com/">Workday</a>
