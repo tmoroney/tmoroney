@@ -3,24 +3,30 @@
 
 <!-- Brief Description -->
 <pre>
-📚 I'm a Computer Science Masters student at <a href="https://www.tcd.ie/">Trinity College Dublin</a>
-🚀 Best languages are Java, Javascript and Python
-🏢 Software Engineer Intern at <a href="https://www.workday.com/">Workday</a> February - August 2024 (7 months)
-⭐️ Developer of <a href="https://github.com/tmoroney/auto-subs">AutoSubs</a> - open source project with 550+ GitHub stars
+🎓 MSc in Computer Science graduate from <a href="https://www.tcd.ie/">Trinity College Dublin</a>
+💻 Most proficient in Java, JavaScript, and Python
+🏢 Former Software Engineer Intern at <a href="https://www.workday.com/">Workday</a> (Feb–Aug 2024), returning Sep 2025
+🌟 Creator of <a href="https://github.com/tmoroney/auto-subs">AutoSubs</a> — 1K+ ⭐ open-source project
+🤖 Currently developing an AI video editing system using Apple's MLX framework
 </pre>
 
 <!-- Statistics -->
 ![](https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Skills&align=center&titleAlign=center&fontSize=25&lineHeight=20&lineCount=3&theme=github_dark&width=450&bg=%230e1114&badge=%2312161a&border=%232da7c7&titleColor=%2321c0d1&line1=OpenJDK,Java,auto;python,python,auto;javascript,javascript,auto;html5,html,auto;&line2=css3,css,2965f1;react,react,auto;csharp,csharp,auto;docker,docker,auto;&line3=mysql,sql,auto;haskell,haskell,auto;dotnet,dotnet;Cplusplus,Cplus,auto;)
   
 ## Some of my Projects 🎨
-### 1. [Architecture Portfolio Center (for IBM)](https://github.com/tcd-ibm/architecture-center-input-form) 🏘️
-For the **2023** _[Trinity College SWENG projects](https://www.linkedin.com/search/results/all/?keywords=%23sweng)_, I led a team of 10 people to develop a reimagined Architecture Portfolio Center for IBM. We created a fully customizable **ReactJS** web app, utilising **SQLite** and **Kubernetes** for our backend. Our application serves as a central information hub for all projects under an organisation. Quickly and easily find details about any project using text search and project tag filters. [**Short Demo Video**](https://youtu.be/69_Lp5XvD0Y) + [**Read more**](https://www.linkedin.com/posts/tom-moroney1_sweng-redhatopenshift-ibm-activity-7064757735942148096-tgtH?utm_source=share&utm_medium=member_desktop)
-### 2. [Proxy Server](https://github.com/tmoroney/proxy-server) 📡
-A web proxy server which fetches items from the Web on behalf of a Web client (i.e browser) instead of the client fetching them directly. Supports Caching and Access Control.
+### 1. [AutoSubs](https://github.com/tmoroney/auto-subs) 📺
+Open-source, cross-platform app for automatic video captioning—over **60,000 downloads** and **1,000+ GitHub stars**. Built with Python, Rust, Lua, and TypeScript using the Tauri framework.
+
+**Features:**
+- ⚡ Ultra-fast, local AI-driven transcription (multi-language)
+- 🗣️ Automatic speaker detection & color-coded subtitles
+- 🌏 Instant subtitle translation to English
+- 🎨 Modern, intuitive UI
+- 📦 One-click install for Mac & Windows
+### 2. [Architecture Portfolio Center (IBM)](https://github.com/tcd-ibm/architecture-center-input-form) 🏘️
+Led a 10-person team for IBM to build a customisable **ReactJS** app with **SQLite** and **Kubernetes** backend. Centralises project info and enables fast search and filtering. [Demo](https://youtu.be/69_Lp5XvD0Y) · [LinkedIn Post](https://www.linkedin.com/posts/tom-moroney1_sweng-redhatopenshift-ibm-activity-7064757735942148096-tgtH?utm_source=share&utm_medium=member_desktop)
 ### 3. [Secure Cloud Encryption](https://github.com/tmoroney/Secure-Cloud-Encryption) 🔐
-A secure application for encrypting files before they are uploaded to the cloud so that only users in the encryption group can decrypt the files. Uses a combination of **symmetric** and **asymmetric** encryption to ensure that files are completely secure, and to enable the adding and removing users from the encryption group so that files can be securely shared between multiple people.
-### 4. [Action Items Dashboard (for Dell)](https://github.com/tmoroney/Dell-Dashboard) 📊
-For the **2022** _[Trinity College SWENG projects](https://www.linkedin.com/search/results/all/?keywords=%23sweng)_, my team developed a fully featured web-based UI (using the **.Net framework**), with **supporting APIs** on top of Dell’s existing database (using **PostgreSQL**). I built the frontend and connected it to the backend API using **C#**. The program allows for all analytical and management tasks of the dataset, increasing the visibility and productivity of all admin tasks related to the database.
+Encrypts files for secure cloud storage and sharing. Combines symmetric and asymmetric encryption so only authorised group members can access files—even as users are added or removed.
 
 ### 🔽 More projects below 🔽
 
@@ -36,19 +42,3 @@ For the **2022** _[Trinity College SWENG projects](https://www.linkedin.com/sear
 <img height= "150" src="https://github-readme-stats.vercel.app/api?username=tmoroney&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" />
 <img height= "150" src="https://github-readme-streak-stats.herokuapp.com/?user=tmoroney&theme=algolia" alt="tmoroney"  />
 </p>
-
-
-<!--
-**tmoroney/tmoroney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
