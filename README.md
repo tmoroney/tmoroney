@@ -11,7 +11,7 @@
 </pre>
 
 <!-- Statistics -->
-![](https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Skills&align=center&titleAlign=center&fontSize=25&lineHeight=20&lineCount=3&theme=github_dark&width=450&bg=%230e1114&badge=%2312161a&border=%232da7c7&titleColor=%2321c0d1&line1=OpenJDK,Java,auto;python,python,auto;javascript,javascript,auto;html5,html,auto;&line2=css3,css,2965f1;react,react,auto;csharp,csharp,auto;docker,docker,auto;&line3=mysql,sql,auto;haskell,haskell,auto;dotnet,dotnet;Cplusplus,Cplus,auto;)
+![](https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Skills&align=center&titleAlign=center&fontSize=25&lineHeight=20&lineCount=3&theme=github_dark&width=450&bg=%230e1114&badge=%2312161a&border=%232da7c7&titleColor=%2321c0d1&line1=OpenJDK,Java,auto;python,python,auto;javascript,javascript,auto;rust,rust,auto;&line2=html5,html,auto;react,react,auto;csharp,csharp,auto;lua,lua,auto;&line3=mysql,sql,auto;dotnet,dotnet;Cplusplus,Cplus,auto;)
   
 ## Some of my Projects 🎨
 ### 1. [AutoSubs](https://github.com/tmoroney/auto-subs) 📺
