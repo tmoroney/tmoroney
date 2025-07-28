@@ -15,7 +15,7 @@
   
 ## Some of my Projects 🎨
 ### 1. [AutoSubs](https://github.com/tmoroney/auto-subs) 📺
-Open-source, cross-platform app for automatic video captioning—over **60,000 downloads** and **1,000+ GitHub stars**. Built with Python, Rust, Lua, and TypeScript using the Tauri framework.
+Open-source, cross-platform app for automatic video captioning—over **100,000 downloads** and more than **1k+ GitHub stars**. Built with Python, Rust, Lua, and TypeScript using the Tauri framework.
 
 **Features:**
 - ⚡ Ultra-fast, local AI-driven transcription (multi-language)
